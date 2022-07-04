@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dereck306
 - 👀 I’m interested in Coding Python, Java, C++ and I want to learn to code some AI
 - 🌱 I’m currently learning Java,Python and C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java projects and Web applications :)
 - 📫 How to reach me dereckrm2000@gmail.com
 
 <!---
